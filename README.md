@@ -1,8 +1,8 @@
 # reco_engine_scripts
 Scripts to process data and exercise the recommendation engine provided as a Microsoft Azure solution
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        | Are           |
+| ------------- |:-------------:|
 
 |browseurls-convert.py |convert the urls from splunk to the format for the recommendation engine|
 |catalog-convert-json.py|convert the catalog file extracted from wagtail into a json document|
